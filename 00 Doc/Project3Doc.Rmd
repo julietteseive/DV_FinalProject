@@ -89,3 +89,10 @@ ___
 <br><br>
 ![](./2008_2010.jpg)
 
+___
+
+**Visualization 9: Bar Graph of How Many Times the General Issue of Tobacco Usage was Brought up During Lobbying Sessions in the Senate  **
+<br><br>
+![](./lobbying_data.jpg)
+
+___
