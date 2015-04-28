@@ -1,3 +1,12 @@
+# second vis
+
+g1 <- mutated1 %>% ggplot(aes(x=YEAR, y=cig_tax_distribution,color=STATES)) + 
+  geom_point() + geom_line() + ggtitle('Cigarette Tax % by State per Year') + 
+  guides(col=guide_legend(nrow=8)) + 
+  labs(x='Year', y='Percent Tax on Cigarettes') + 
+  theme(axis.title.x=element_text(vjust=-0.35), axis.title.y=element_text(vjust=1.25), plot.title=element_text(vjust=1), legend.position="bottom")
+g1
+
 # first vis
 
 g2 <- mutated2 %>% ggplot(aes(x = STATES, y = minyear)) + geom_point(aes(size=avg_tax, color=avg_tax)) + 
@@ -9,12 +18,3 @@ g2 <- mutated2 %>% ggplot(aes(x = STATES, y = minyear)) + geom_point(aes(size=av
   scale_color_continuous(name="Average Tax in $\n from 1995-2014") +
   guides(col=guide_legend(nrow=2))
 g2
-
-# second vis
-
-g1 <- mutated1 %>% ggplot(aes(x=YEAR, y=cig_tax_distribution,color=STATES)) + 
-  geom_point() + geom_line() + ggtitle('Cigarette Tax % by State per Year') + 
-  guides(col=guide_legend(nrow=8)) + 
-  labs(x='Year', y='Percent Tax on Cigarettes') + 
-  theme(axis.title.x=element_text(vjust=-0.35), axis.title.y=element_text(vjust=1.25), plot.title=element_text(vjust=1), legend.position="bottom")
-g1
