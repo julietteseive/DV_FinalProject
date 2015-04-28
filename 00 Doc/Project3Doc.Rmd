@@ -29,3 +29,63 @@ source("../03 Visualization/visualizations.R", echo = TRUE)
 ```
 ___
 
+**Visualization 3: Line plot of Cigarette Tax in States without smoking bans from 1995-2013**
+<br>
+<br>
+
+![](./vis_3.jpg)
+<br><br>
+
+___
+
+**Visualization 1: States that have smoking restrictions in bars, restaurants and private worksites**
+
+<br>
+
+![](./Smoking_Restrictions_in_All_Commerical_Settings_by_State_for_2003-2013.jpg)
+
+<br>
+<br>
+<br>
+
+___
+
+**Visualization 2: Type of smoking restriction for each state for 1995-2013**
+
+
+<br>
+<br>
+<br>
+
+
+![](./Smoking_Restriction_Tax_Over_1995-2013.jpg)
+
+<br><br><br>
+*Here are two states, Arizona and New York respectively, highlighted in the previous visualization*
+
+<br>
+<br>
+<br>
+
+![](./Arizonas_Smoking_Restriction_Tax_Over_1995_2013.jpg)
+
+<br>
+<br>
+
+![](./New_Yorks_Smoking_Restriction_Tax_Over_1995-2013.jpg)
+
+<br><br>
+
+___
+
+**Visualization 4: Map of states with smoking bans with average cigarette tax represented by point size in even-numbered years for 2000-2010**
+<br><br>
+
+![](./Map_of_Smoking_Bans_with_Avg_Tax_in_2000_2002.jpg)
+<br><br>
+
+![](./2004_2006.jpg)
+
+<br><br>
+![](./2008_2010.jpg)
+
