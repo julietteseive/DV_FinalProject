@@ -4,7 +4,7 @@ output: html_document
 ---
 
 ***The Esteemed Creators:*** *Juliette Seive, David Tran, Boris Boukhonine*
-___
+
 ___
 
 ***Get data frames***
@@ -13,6 +13,7 @@ ___
 source("../01 Data/package_loader.R", echo = FALSE)
 source("../01 Data/dataframes.R", echo = TRUE)
 ```
+
 ___
 
 ***Wrangle data***
@@ -20,13 +21,15 @@ ___
 ```{r}
 source("../02 Data Wrangling/datawrangling.R", echo = TRUE)
 ```
+
 ___
 
-***Visualize data***
+***R Visualizations***
 
 ```{r, fig.width=10,fig.height=10}
 source("../03 Visualization/visualizations.R", echo = TRUE)
 ```
+
 ___
 
 **Visualization 3: Line plot of Cigarette Tax in States without smoking bans from 1995-2013**
@@ -38,7 +41,7 @@ ___
 
 ___
 
-**Visualization 1: States that have smoking restrictions in bars, restaurants and private worksites**
+**Visualization 4: States that have smoking restrictions in bars, restaurants and private worksites**
 
 <br>
 
@@ -50,7 +53,8 @@ ___
 
 ___
 
-**Visualization 2: Type of smoking restriction for each state for 1995-2013**
+**Visualization 5: Type of smoking restriction for each state for 1995-2013**
+
 
 
 <br>
@@ -61,6 +65,10 @@ ___
 ![](./Smoking_Restriction_Tax_Over_1995-2013.jpg)
 
 <br><br><br>
+
+___
+
+**Visualization 6**
 *Here are two states, Arizona and New York respectively, highlighted in the previous visualization*
 
 <br>
@@ -72,13 +80,19 @@ ___
 <br>
 <br>
 
+___
+
+**Visualization 7**
+
+
+
 ![](./New_Yorks_Smoking_Restriction_Tax_Over_1995-2013.jpg)
 
 <br><br>
 
 ___
 
-**Visualization 4: Map of states with smoking bans with average cigarette tax represented by point size in even-numbered years for 2000-2010**
+**Visualization 8: Map of states with smoking bans with average cigarette tax represented by point size in even-numbered years for 2000-2010**
 <br><br>
 
 ![](./Map_of_Smoking_Bans_with_Avg_Tax_in_2000_2002.jpg)
@@ -91,8 +105,16 @@ ___
 
 ___
 
-**Visualization 9: Bar Graph of How Many Times the General Issue of Tobacco Usage was Brought up During Lobbying Sessions in the Senate  **
+**Visualization 9 **
+
 <br><br>
-![](./lobbying_data.jpg)
+![](./LobbyingDataHealthIssuesToBbAcOTaxes.jpg)
+
+___
+
+**Visualization 10 **
+
+<br><br>
+![](./Num.jpg)
 
 ___
