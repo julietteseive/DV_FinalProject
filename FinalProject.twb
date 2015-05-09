@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<workbook source-platform='mac' version='8.3' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <!-- build 8300.15.0219.2230                                -->
+  <preferences>
+  </preferences>
+  <datasources>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+          </datasources>
+          <aggregation value='true' />
+        </view>
+        <style>
+        </style>
+        <panes>
+          <pane>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows></rows>
+        <cols></cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Story 1' type='storyboard'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Story Title</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style>
+      </style>
+      <size maxheight='965' maxwidth='1016' minheight='965' minwidth='1016' />
+      <zones>
+        <zone h='100000' id='2' type='layout-basic' w='100000' x='0' y='0'>
+          <zone h='100000' hidden='true' id='1' param='vert' removable='false' type='layout-flow' w='100000' x='0' y='0'>
+            <zone h='4561' hidden='true' id='3' type='title' w='100000' x='0' y='0'>
+            </zone>
+            <zone h='11296' hidden='true' id='4' paired-zone-id='5' removable='false' type='flipboard-nav' w='100000' x='0' y='4561'>
+            </zone>
+            <zone h='83728' hidden='true' id='5' paired-zone-id='4' removable='false' type='flipboard' w='100000' x='0' y='15857'>
+              <flipboard active-id='1' show-nav-arrows='true'>
+                <story-points>
+                  <story-point captured-sheet='' id='1'>
+                  </story-point>
+                </story-points>
+              </flipboard>
+            </zone>
+          </zone>
+        </zone>
+      </zones>
+    </dashboard>
+  </dashboards>
+  <windows>
+    <window class='schema' source-height='-1' />
+    <window auto-hidden='0' class='worksheet' maximized='1' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='31'>
+            <card type='columns' />
+          </strip>
+          <strip size='31'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+    </window>
+    <window auto-hidden='0' class='dashboard' maximized='0' name='Story 1'>
+      <active id='5' />
+      <zones>
+      </zones>
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='144' name='Sheet 1' width='174'>
+      iVBORw0KGgoAAAANSUhEUgAAAK4AAACQCAYAAACRfFAzAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAABmUlEQVR4nO3SQQ0AIBDAMMC/58MDH7KkVbDH9szMgpjzOwBeGJck45JkXJKMS5JxSTIu
+      ScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45Jk
+      XJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYl
+      ybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKM
+      S5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgk
+      GZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5Jx
+      STIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuScYlybgkGZck
+      45JkXJKMS5JxSTIuScYlybgkGZck45JkXJKMS5JxSTIuSRePYgUc7kJNEQAAAABJRU5ErkJg
+      gg==
+    </thumbnail>
+    <thumbnail height='192' name='Story 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAAsTAAALEwEAmpwY
+      AAAFLElEQVR4nO3by09cZQCG8fcMM8MMV2EoBbnE2BZaq42FtNJW7NaFsSGaaIwm/gEuXJho
+      NG5c1V0XJt1o7cKqjS1BDWkBa1pMTUONGiykUFB7AUKqUAqkMB04brQ1sQRvFMj7/FazmJnv
+      fJN55nyZc74gDMNQgKnIch8AsJz+EkAYhuKkABfRPx6EYagzJ9vU2dWtIBLVU88+r/xgSlPK
+      1f2Va//2G356+KB6Boc1H4aKBBHV1dUpVb5O8cwvWrfxQR1vP6Gnm/YsyWSAf+pWAArn1NJ6
+      Qm/tfVsTw/3q6PpG0YkBTWZXq+zJ3er86rRyisq0a/tWdX/XpZHRMRWtrVBD/cMavjigWGGp
+      SosKtOeZF9U4ckEHjp7RKy+9oNGhnzU+ldahg0f0RFNcl65c1lwmrdOdpzQTxrV796PKjmYt
+      40cAZ7eXQEGWGhse0ptvvK7m41+rcec25eflq7ikSAf271dBWbWGzp9V+6kuffjBxyosKdWZ
+      L49pZHxSR480KxKN33GAK4N9Grw0prycpIqKCyVJbc0f6epMoFhmXIdb2u/KRIE7uXUGyMxc
+      1z1VW7S36Tn1nftW7773vh7fvl6ZkpR+yGRpx9YtqozPqqP7otZUVmnXI9uUl7mmL9palUmm
+      VJKfWHiQWEIF+bkqSRVLki4Pj2gqnNDVRExV6zYt/SyBBdw6A2TFs9XeckjNnx/TuZ4erSkt
+      V1Y0qnPf96i6OK7m1nZ91tah2g01Cn5/1QP1DTp7skMNOx9bdKD5+Yx6e/ulQKqpWa9kQUol
+      hdm6Np1esskBiwn+fB0gPTOt830XFIkltHFjjcKbs+of+Ek1tRvU19ur3MKU7qu+V0PDw6qs
+      qNDM9KT27XtHL7/6mhLR26upm+kbGv11UpXlpZqaGFdaMYXpKV2fnlUsHlNFeZl+vNCnG3MR
+      baqtUVYkWJbJA8G/vxAWqq3lExVUbdaO+s3/71EBd8l/CABY/aKLPwUryUr9vQqC1bmMJYBV
+      ZuzaxIqLIDcnqWRi4X8BVzLuBYI1AoA1AoA1AoA1AoA1AoA1AoA1AoA1AoA1AoA1AoA1AoA1
+      AoA1AoA1AoA1AoA1NsSsMjnJhFbYfhhFo6v3a8SeYFhjCQRrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABrBABr
+      BABrBABrBABrBABrBABrBABrBABrBABrBABrBABrvwFmbwB6cvbTzQAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
