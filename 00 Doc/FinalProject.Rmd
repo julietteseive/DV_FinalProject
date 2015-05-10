@@ -102,7 +102,11 @@ ___
 
 <br><br>
 ![](./yoy_map.png)
+<br>
+**YoY Table Calculation **
 
+<br><br>
+![](./yOy_TaBlE_cAlC.png)
 ___
 
 **Visualization 12 **
