@@ -21,6 +21,14 @@ ___
 ```{r}
 source("../02 Data Wrangling/datawrangling.R", echo = TRUE)
 ```
+___
+
+**Crosstabs**
+<br>
+<br>
+
+![](./max_tax_crosstab.png)
+<br><br>
 
 ___
 
@@ -36,16 +44,16 @@ ___
 <br>
 <br>
 
-![](./vis_3.jpg)
+![](./line_plot_cig_tax.png)
 <br><br>
 
 ___
 
-**Visualization 4: States that have smoking restrictions in bars, restaurants and private worksites**
+**Visualization 4: Type of smoking restriction for each state for 1995-2013**
 
 <br>
 
-![](./Smoking_Restrictions_in_All_Commerical_Settings_by_State_for_2003-2013.jpg)
+![](./area_chart.png)
 
 <br>
 <br>
@@ -53,22 +61,7 @@ ___
 
 ___
 
-**Visualization 5: Type of smoking restriction for each state for 1995-2013**
-
-
-
-<br>
-<br>
-<br>
-
-
-![](./Smoking_Restriction_Tax_Over_1995-2013.jpg)
-
-<br><br><br>
-
-___
-
-**Visualization 6**
+**Visualization 5**
 *Here are two states, Arizona and New York respectively, highlighted in the previous visualization*
 
 <br>
@@ -82,7 +75,7 @@ ___
 
 ___
 
-**Visualization 7**
+**Visualization 6**
 
 
 
@@ -92,10 +85,10 @@ ___
 
 ___
 
-**Visualization 8: Map of states with smoking bans with average cigarette tax represented by point size in even-numbered years for 2000-2010**
+**Visualization 7: Map of states with smoking bans with average cigarette tax represented by point size in even-numbered years for 2000-2010**
 <br><br>
 
-![](./Map_of_Smoking_Bans_with_Avg_Tax_in_2000_2002.jpg)
+![](./dot_map.png)
 <br><br>
 
 ![](./2004_2006.jpg)
@@ -105,14 +98,28 @@ ___
 
 ___
 
-**Visualization 9 **
+**Visualization 11 **
 
 <br><br>
-![](./LobbyingDataHealthIssuesToBbAcOTaxes.jpg)
+![](./yoy_map.png)
 
 ___
 
-**Visualization 10 **
+**Visualization 12 **
+
+<br><br>
+![](./lobby_num_records.png)
+
+___
+
+**Visualization 13 **
+
+<br><br>
+![](./avg_tax.png)
+
+___
+
+**Visualization 14 **
 
 <br><br>
 ![](./Num.jpg)
